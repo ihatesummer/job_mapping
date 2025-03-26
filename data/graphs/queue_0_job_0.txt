@@ -1,0 +1,7 @@
+Task Graph for Queue 0, Job 0
+Nodes and Workload Attributes:
+  Node 0: CPU=23, GPU=9, MEM=10
+  Node 1: CPU=39, GPU=27, MEM=1
+
+Directed Edges:
+  1 -> 0
